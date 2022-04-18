@@ -6,4 +6,4 @@ I analysed the catalogue data of the Sloan Digital Sky Survey data release-14, 1
 
 I visualise the decision surfaces of each model to better understand their complexities.
 
-By performing a Bayesian analysis of feature, I explain why Naive Bias achieves the highest accuracy. 
+By performing a Bayesian analysis of the features, I explain why Naive Bias achieves the highest accuracy. 
