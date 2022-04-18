@@ -1,4 +1,4 @@
-# SDSS ML classification
+# SDSS object classification
 
 I analysed the catalogue data of the Sloan Digital Sky Survey data release-14, 15 & 16 to understand the differences in the spectra of three classes of celestial objects- stars, galaxies, and quasars.
 
